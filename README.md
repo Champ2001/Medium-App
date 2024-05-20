@@ -1,4 +1,4 @@
-#Screenshots of the project 
+
 ![image](https://github.com/Champ2001/Medium-App/assets/95713320/3b7b13dd-0529-483e-9712-18fe0b67015b)
 
 ![image](https://github.com/Champ2001/Medium-App/assets/95713320/ee3e03f1-e588-4d33-b9f1-949813534baf)
