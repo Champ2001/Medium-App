@@ -7,5 +7,8 @@
 
 ![image](https://github.com/Champ2001/Medium-App/assets/95713320/8d720a8d-379a-45a2-aadd-caeac0e3c9b0)
 
+![image](https://github.com/Champ2001/Medium-App/assets/95713320/00597d90-2ced-46b2-9c2a-6e2c4fcc87f4)
+
+
 
 
